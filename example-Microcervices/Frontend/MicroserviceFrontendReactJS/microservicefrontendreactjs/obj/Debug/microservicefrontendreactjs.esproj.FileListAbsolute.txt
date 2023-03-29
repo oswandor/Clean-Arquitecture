@@ -1,0 +1,2 @@
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Frontend\MicroserviceFrontendReactJS\MicroserviceFrontendReactJS\obj\Debug\microservicefrontendreactjs.esproj.SuggestedBindingRedirects.cache
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Frontend\MicroserviceFrontendReactJS\MicroserviceFrontendReactJS\obj\Debug\microservicefrontendreactjs.esproj.CoreCompileInputs.cache

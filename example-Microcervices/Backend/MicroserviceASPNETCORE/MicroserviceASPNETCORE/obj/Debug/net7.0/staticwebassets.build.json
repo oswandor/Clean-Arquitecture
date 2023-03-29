@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D5yQXbp30Y3QCvcSDGxyNWhxrkQJFQKK355IlywPyao=",
+  "Source": "MicroserviceASPNETCORE",
+  "BasePath": "_content/MicroserviceASPNETCORE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

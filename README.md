@@ -18,3 +18,13 @@ Algunas de las ventajas de la arquitectura de microservicios incluyen:
 - Tecnologías y herramientas diversificadas: los microservicios se pueden desarrollar y desplegar utilizando diferentes tecnologías y herramientas, lo que permite a los equipos de desarrollo utilizar las herramientas y tecnologías que mejor se adapten a sus necesidades.
 
 Sin embargo, la arquitectura de microservicios también tiene algunos desafíos y complejidades, como la gestión de la comunicación entre los servicios, la coordinación de las transacciones distribuidas y el monitoreo y la gestión de la infraestructura de los servicios. Por lo tanto, es importante evaluar cuidadosamente si la arquitectura de microservicios es adecuada para una aplicación en particular y si se cuenta con los recursos y habilidades necesarios para implementarla con éxito.
+
+
+
+
+
+![MicroservicesWithContainerDocker](/images/api-gateway-pattern.png)
+
+
+
+

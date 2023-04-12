@@ -1,0 +1,12 @@
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\TesthibridConnetions.exe
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\TesthibridConnetions.dll
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\TesthibridConnetions.deps.json
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\TesthibridConnetions.runtimeconfig.json
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\TesthibridConnetions.pdb
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RonalGonzalez\Desktop\Clean Arquitecture\example-Microcervices\Backend\TesthibridConnetions\TesthibridConnetions\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
